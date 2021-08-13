@@ -1,0 +1,8 @@
+# Build related files
+build
+out
+
+# IDE related files
+.vs
+.vscode
+.clion
